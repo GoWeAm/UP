@@ -1,0 +1,2 @@
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\MasterPolApp.Tests\obj\Debug\MasterPolApp.Tests.csproj.AssemblyReference.cache
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\MasterPolApp.Tests\obj\Debug\MasterPolApp.Tests.csproj.CoreCompileInputs.cache

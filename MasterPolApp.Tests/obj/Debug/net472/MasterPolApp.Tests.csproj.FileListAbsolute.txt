@@ -1,0 +1,7 @@
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.csproj.AssemblyReference.cache
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.dll.config
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.AssemblyInfoInputs.cache
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.AssemblyInfo.cs
+C:\Users\222909072092-29\source\repos\MasterPol\MasterPolApp.Tests\obj\Debug\net472\MasterPolApp.Tests.csproj.CoreCompileInputs.cache

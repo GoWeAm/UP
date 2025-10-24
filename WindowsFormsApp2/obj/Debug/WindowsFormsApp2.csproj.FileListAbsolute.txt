@@ -1,0 +1,42 @@
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\MasterPolApp.PartnerForm.resources
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+H:\УП\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\MasterPolApp.MainForm.resources
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\MasterPolApp.MainForm.resources
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\MasterPolApp.PartnerForm.resources
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+H:\УП\WindowsFormsApp2 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\MasterPolApp.MainForm.resources
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\MasterPolApp.PartnerForm.resources
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\УЧЕБА\4 kurs2026\Практики\УП 02.01\Выполненные задания\4\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\222909072092-29\source\repos\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\222909072092-29\source\repos\MasterPol\WindowsFormsApp2\obj\Debug\MasterPolApp.MainForm.resources
+C:\Users\222909072092-29\source\repos\MasterPol\WindowsFormsApp2\obj\Debug\MasterPolApp.PartnerForm.resources
+C:\Users\222909072092-29\source\repos\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\222909072092-29\source\repos\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\222909072092-29\source\repos\MasterPol\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
